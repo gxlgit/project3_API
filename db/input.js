@@ -4,7 +4,7 @@ const InputSchema = new mongoose.Schema({
   weather: String,
   name: String,
   clothes: [{
-    title: String,
+    name: String,
     imgURL: String
   }],
   why: String

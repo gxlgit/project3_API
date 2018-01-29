@@ -1,0 +1,26 @@
+[
+    {"name" : "raincoat",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "mittens",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "coat",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "sweater",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "sunglasses",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "cap",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "windbreaker",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "scarf",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    }
+]

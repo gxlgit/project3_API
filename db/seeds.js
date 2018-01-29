@@ -7,7 +7,7 @@ const weatherData = require('./weatherseeds.json')
 // const Input = require('./input')
 
 
-Clothing.remove({}) 
+Clothing.remove({})
   .then(() => {
     return Clothing.collection.insert(clothingData)
   })
@@ -15,7 +15,7 @@ Clothing.remove({})
     process.exit()
   })
 
-  Weather.remove({}) 
+  Weather.remove({})
   .then(() => {
     return Weather.collection.insert(weatherData)
   })

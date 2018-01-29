@@ -1,5 +1,28 @@
 [
-    {
-
-}
+  {"name" : "sunny",
+    "imgURL" : "http://via.placeholder.com/150x150" ,
+    "clothes": [{"name" : "sunglasses",
+                  "imgURL" : "http://via.placeholder.com/150x150"
+                },
+                {"name" : "cap",
+                  "imgURL" : "http://via.placeholder.com/150x150"
+                }
+              ]
+  },
+  {"name" : "rainy",
+    "imgURL" : "http://via.placeholder.com/150x150",
+    "clothes": [
+                {"name" : "raincoat",
+                 "imgURL" : "http://via.placeholder.com/150x150"
+                }
+               ]
+  },
+  {"name" : "windy",
+    "imgURL" : "http://via.placeholder.com/150x150" ,
+    "clothes": [
+                {"name" : "windbreaker",
+                  "imgURL" : "http://via.placeholder.com/150x150"
+                }  
+              ]
+  },
 ]

@@ -4,7 +4,7 @@ const WeatherSchema = new mongoose.Schema({
   title: String,
   imgURL: String,
   clothes: [{
-    title: String,
+    name: String,
     imgURL: String
   }]
 })

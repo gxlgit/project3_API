@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const ClothingSchema = new mongoose.Schema({
-  title: String,
+  name: String,
   imgURL: String
 })
 
