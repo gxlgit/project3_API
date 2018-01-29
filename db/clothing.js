@@ -6,4 +6,5 @@ const ClothingSchema = new mongoose.Schema({
 })
 
 Clothing = mongoose.model('Clothing', ClothingSchema)
+
 module.exports = Clothing

@@ -1,7 +1,9 @@
-const Clothing = require('./clothing')
+const mongoose = require('../connection')
+
+const Clothing = require('./clothing.js')
 const clothingData = require('./clothingseeds.json')
 
-const Weather = require('./weather')
+const Weather = require('./weather.js')
 const weatherData = require('./weatherseeds.json')
 
 // const Input = require('./input')
