@@ -22,7 +22,7 @@
     "clothes": [
                 {"name" : "windbreaker",
                   "imgURL" : "http://via.placeholder.com/150x150"
-                }  
+                }
               ]
-  },
+  }
 ]
