@@ -4,7 +4,7 @@ const clothingData = require('./clothingseeds.json')
 const Weather = require('./weather')
 const weatherData = require('./weatherseeds.json')
 
-const Input = require('./input')
+// const Input = require('./input')
 
 
 Clothing.remove({}) 
