@@ -6,14 +6,25 @@ const weatherData = require('./weatherseeds.json')
 
 // const Input = require('./input')
 
+console.log('in seeds.js');
+ console.log(Clothing.find({}));
 
-Clothing.remove({})
-  .then(() => {
-    return Clothing.collection.insert(clothingData)
+// Clothing.remove({})
+//   .then((removed) => {
+//     console.log('removed clothing');
+//     console.log(removed);
+//     return Clothing.collection.insert(clothingData)
+//   })
+//   .then((found) => { console.log(found);
+//     process.exit()
+//   })
+
+Clothing.remove({}).then(function() {
+  Clothing.create(clothingData).then(()=>{
+    console.log('finished create');
+    process.exit
   })
-  .then(() => {
-    process.exit()
-  })
+})
 
   Weather.remove({})
   .then(() => {
@@ -22,3 +33,11 @@ Clothing.remove({})
   .then(() => {
     process.exit()
   })
+
+
+
+  // Candidate.remove({}).then(function() {
+  //   Candidate.create(seedData).then(()=>{
+  //     process.exit
+  //   })
+  // })

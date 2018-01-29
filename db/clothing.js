@@ -5,5 +5,7 @@ const ClothingSchema = new mongoose.Schema({
   imgURL: String
 })
 
+console.log('in clothing.js');
+
 Clothing = mongoose.model('Clothing', ClothingSchema)
 module.exports = Clothing
