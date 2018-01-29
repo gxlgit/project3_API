@@ -8,4 +8,5 @@ const ClothingSchema = new mongoose.Schema({
 console.log('in clothing.js');
 
 Clothing = mongoose.model('Clothing', ClothingSchema)
+
 module.exports = Clothing
