@@ -45,8 +45,8 @@ router.get('/clothing', (req, res)=>{
 
 router.get('/clothing/:name', (req, res)=>{
     Clothing.findOne({name: req.params.name})
-    .then(function(clothingbyname){  
-        res.json(clothingbyname)      
+    .then(function(clothingByName){  
+        res.json(clothingByName)      
     })
 });
 
@@ -56,6 +56,13 @@ router.get('/weather', (req, res)=>{
     Weather.find({})
     .then(function(weather){
         res.json(weather)
+    });
+});
+
+router.get('/weather/:name', (req, res)=>{
+    Weather.findOne({name: req.params.name})
+    .then(function(weatherByTitle){  
+        res.json(weatherByTitle)      
     })
 });
 

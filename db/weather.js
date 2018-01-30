@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const WeatherSchema = new mongoose.Schema({
-  title: String,
+  name: String,
   imgURL: String,
   clothes: [{
     name: String,
