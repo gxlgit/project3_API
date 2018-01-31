@@ -1,28 +1,154 @@
 [
-  {"name" : "sunny",
-    "imgURL" : "http://via.placeholder.com/150x150" ,
-    "clothes": [{"name" : "sunglasses",
-                  "imgURL" : "http://via.placeholder.com/150x150"
-                },
-                {"name" : "cap",
-                  "imgURL" : "http://via.placeholder.com/150x150"
-                }
-              ]
-  },
-  {"name" : "rainy",
-    "imgURL" : "http://via.placeholder.com/150x150",
-    "clothes": [
-                {"name" : "raincoat",
-                 "imgURL" : "http://via.placeholder.com/150x150"
-                }
-               ]
-  },
-  {"name" : "windy",
-    "imgURL" : "http://via.placeholder.com/150x150" ,
-    "clothes": [
-                {"name" : "windbreaker",
-                  "imgURL" : "http://via.placeholder.com/150x150"
-                }
-              ]
-  }
+	{
+		"name": "sunny",
+		"imgURL": "https://tinyurl.com/yal89jos",
+		"clothes": [
+			{
+				"name": "sunglasses",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "cap",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "rainy",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "raincoat",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "umbrella",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "rain boots",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "windy",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "windbreaker",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "cold",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "coat",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "hat",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "sweater",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "pants",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "snowy",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "coat",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "hat",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "gloves",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "scarf",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "snow boots",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "hot",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "shorts",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "tank top",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "sandals",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "warm",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "shorts",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "t-shirt",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "pants",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "sneakers",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	},
+	{
+		"name": "cool",
+		"imgURL": "http://via.placeholder.com/150x150",
+		"clothes": [
+			{
+				"name": "pants",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "t-shirt",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "hoodie",
+				"imgURL": "http://via.placeholder.com/150x150"
+			},
+			{
+				"name": "sneakers",
+				"imgURL": "http://via.placeholder.com/150x150"
+			}
+		]
+	}
 ]
