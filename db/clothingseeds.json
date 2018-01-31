@@ -1,29 +1,72 @@
 [
-    {"name" : "red raincoat",
+  
+    {"name" : "raincoat",
       "imgURL" : "http://via.placeholder.com/150x150"
     },
-    {"name" : "mittens",
+    {"name" : " rain boots",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "umbrella",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "gloves",
       "imgURL" : "http://via.placeholder.com/150x150"
     },
     {"name" : "coat",
       "imgURL" : "https://tinyurl.com/y73odabj"
     },
+    {"name" : "snow boots",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
     {"name" : "sweater",
       "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "scarf",
+      "imgURL" : "https://tinyurl.com/yb7y3ge3"
+    },
+    {"name" : "parka",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "windbreaker",
+      "imgURL" : "http://via.placeholder.com/150x150"
+    },
+    {"name" : "hoodie",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "beanie",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "puffer vest",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
     },
     {"name" : "sunglasses",
       "imgURL" : "https://tinyurl.com/y9gvv5l6"
     },
     {"name" : "cap",
       "imgURL" : "http://via.placeholder.com/150x150"
+    },  
+    {"name" : "shorts",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
     },
-    {"name" : "windbreaker",
-      "imgURL" : "http://via.placeholder.com/150x150"
+    {"name" : "flip flops",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
     },
-    {"name" : "scarf",
-      "imgURL" : "https://tinyurl.com/yb7y3ge3"
+    {"name" : "sandals",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
     },
-    {"name" : "hat",
+    {"name" : "sneakers",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "tank top",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "socks",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "dress",
+      "imgURL" : "https://tinyurl.com/ydxohys4"
+    },
+    {"name" : "skirt",
       "imgURL" : "https://tinyurl.com/ydxohys4"
     }
 ]
