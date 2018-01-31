@@ -13,6 +13,13 @@ router.get('/input', (req, res)=>{
     })
 });
 
+router.get('/input/:id', (req, res)=>{
+    Input.findOne({_id: req.params.id}, req.body)
+    .then(function(input){  
+        res.json(input)      
+    })
+});
+
 router.post('/input', (req, res)=>{
     Input.create(req.body)
     .then(function(input){
