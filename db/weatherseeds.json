@@ -1,15 +1,15 @@
 [
 	{
 		"name": "sunny",
-		"imgURL": "https://tinyurl.com/yal89jos",
+		"imgURL": "https://tinyurl.com/yatkamn5",
 		"clothes": [
 			{
 				"name": "sunglasses",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y9gvv5l6"
 			},
 			{
 				"name": "cap",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y7ydc6d3"
 			}
 		]
 	},
@@ -19,15 +19,15 @@
 		"clothes": [
 			{
 				"name": "raincoat",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/ydxyplo3"
 			},
 			{
 				"name": "umbrella",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/yaxgob5l"
 			},
 			{
 				"name": "rain boots",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/ybzzwutd"
 			}
 		]
 	},
@@ -37,7 +37,7 @@
 		"clothes": [
 			{
 				"name": "windbreaker",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y98lzrw4"
 			}
 		]
 	},
@@ -47,19 +47,19 @@
 		"clothes": [
 			{
 				"name": "coat",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y73odabj"
 			},
 			{
-				"name": "hat",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"name": "beanie",
+				"imgURL": "https://tinyurl.com/yczqrf5g"
 			},
 			{
 				"name": "sweater",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/ydet5plc"
 			},
 			{
 				"name": "pants",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/ydcle4f8"
 			}
 		]
 	},
@@ -69,23 +69,23 @@
 		"clothes": [
 			{
 				"name": "coat",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y73odabj"
 			},
 			{
-				"name": "hat",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"name": "beenie",
+				"imgURL": "https://tinyurl.com/yczqrf5g"
 			},
 			{
 				"name": "gloves",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/yaaygpbe"
 			},
 			{
 				"name": "scarf",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/yb7y3ge3"
 			},
 			{
 				"name": "snow boots",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/ya5fotbp"
 			}
 		]
 	},
@@ -95,15 +95,23 @@
 		"clothes": [
 			{
 				"name": "shorts",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y859thor"
 			},
 			{
 				"name": "tank top",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/yav4bwm9"
+			},
+			{
+				"name": "flip flops",
+				"imgURL": "https://tinyurl.com/ycja8wnf"
+			},
+			{
+				"name": "dress",
+				"imgURL": "https://tinyurl.com/yb6fe4hk"
 			},
 			{
 				"name": "sandals",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/yazhswfv"
 			}
 		]
 	},
@@ -113,11 +121,15 @@
 		"clothes": [
 			{
 				"name": "shorts",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y859thor"
 			},
 			{
-				"name": "t-shirt",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"name": "tshirt",
+				"imgURL": "https://tinyurl.com/yauya27r"
+			},
+			{
+				"name": "skirt",
+				"imgURL": "https://tinyurl.com/y9mru5ag"
 			},
 			{
 				"name": "pants",
@@ -137,17 +149,22 @@
 				"name": "pants",
 				"imgURL": "http://via.placeholder.com/150x150"
 			},
+
 			{
-				"name": "t-shirt",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"name": "jeans",
+				"imgURL": "https://tinyurl.com/ydft6d65"
 			},
 			{
 				"name": "hoodie",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/yczqrf5g"
 			},
 			{
 				"name": "sneakers",
-				"imgURL": "http://via.placeholder.com/150x150"
+				"imgURL": "https://tinyurl.com/y9uyp2vl"
+			},
+			{
+				"name": "shirt",
+				"imgURL": "https://tinyurl.com/yc6nuhvw"
 			}
 		]
 	}

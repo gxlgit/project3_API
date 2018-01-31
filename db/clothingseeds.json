@@ -1,81 +1,130 @@
 [
-  
-    {"name" : "raincoat",
-      "imgURL" : "http://via.placeholder.com/150x150"
-    },
-    {"name" : " rain boots",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "umbrella",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "gloves",
-      "imgURL" : "http://via.placeholder.com/150x150"
-    },
-    {"name" : "coat",
-      "imgURL" : "https://tinyurl.com/y73odabj"
-    },
-    {"name" : "snow boots",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "sweater",
-      "imgURL" : "http://via.placeholder.com/150x150"
-    },
-    {"name" : "scarf",
-      "imgURL" : "https://tinyurl.com/yb7y3ge3"
-    },
-    {"name" : "parka",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "windbreaker",
-      "imgURL" : "http://via.placeholder.com/150x150"
-    },
-    {"name" : "hoodie",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "beanie",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "puffer vest",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "sunglasses",
-      "imgURL" : "https://tinyurl.com/y9gvv5l6"
-    },
-    {"name" : "cap",
-      "imgURL" : "http://via.placeholder.com/150x150"
-    },  
-    {"name" : "shorts",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "flip flops",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "sandals",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "sneakers",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "tank top",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "socks",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "dress",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "skirt",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "puffer vest",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "jeans",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    },
-    {"name" : "pants",
-      "imgURL" : "https://tinyurl.com/ydxohys4"
-    }
+	{
+		"name": "raincoat",
+		"imgURL": "https://tinyurl.com/ydxyplo3"
+	},
+	{
+		"name": " rain boots",
+		"imgURL": "https://tinyurl.com/ybzzwutd"
+	},
+	{
+		"name": "umbrella",
+		"imgURL": "https://tinyurl.com/yaxgob5l"
+	},
+	{
+		"name": "gloves",
+		"imgURL": "https://tinyurl.com/yaaygpbe"
+	},
+	{
+		"name": "coat",
+		"imgURL": "https://tinyurl.com/y73odabj"
+	},
+	{
+		"name": "snow boots",
+		"imgURL": "https://tinyurl.com/ya5fotbp"
+	},
+	{
+		"name": "sweater",
+		"imgURL": "https://tinyurl.com/ydet5plc"
+	},
+	{
+		"name": "scarf",
+		"imgURL": "https://tinyurl.com/yb7y3ge3"
+	},
+	{
+		"name": "parka",
+		"imgURL": "https://tinyurl.com/ybjdupsp"
+	},
+	{
+		"name": "windbreaker",
+		"imgURL": "https://tinyurl.com/y98lzrw4"
+	},
+	{
+		"name": "hoodie",
+		"imgURL": "https://tinyurl.com/yczqrf5g"
+	},
+	{
+		"name": "beanie",
+		"imgURL": "https://tinyurl.com/ybdujh8l"
+	},
+	{
+		"name": "puffer vest",
+		"imgURL": "https://tinyurl.com/yaan8c5j"
+	},
+	{
+		"name": "sunglasses",
+		"imgURL": "https://tinyurl.com/y9gvv5l6"
+	},
+	{
+		"name": "cap",
+		"imgURL": "https://tinyurl.com/y7ydc6d3"
+	},
+	{
+		"name": "shorts",
+		"imgURL": "https://tinyurl.com/y859thor"
+	},
+	{
+		"name": "flip flops",
+		"imgURL": "https://tinyurl.com/ycja8wnf"
+	},
+	{
+		"name": "sandals",
+		"imgURL": "https://tinyurl.com/yazhswfv"
+	},
+	{
+		"name": "sneakers",
+		"imgURL": "https://tinyurl.com/y9uyp2vl"
+	},
+	{
+		"name": "tank top",
+		"imgURL": "https://tinyurl.com/yav4bwm9"
+	},
+	{
+		"name": "tshirt",
+		"imgURL": "https://tinyurl.com/yauya27r"
+	},
+	{
+		"name": "socks",
+		"imgURL": "https://tinyurl.com/ybgztskt"
+	},
+	{
+		"name": "dress",
+		"imgURL": "https://tinyurl.com/yb6fe4hk"
+	},
+	{
+		"name": "skirt",
+		"imgURL": "https://tinyurl.com/y9mru5ag"
+	},
+	{
+		"name": "puffer vest",
+		"imgURL": "https://tinyurl.com/yaan8c5j"
+	},
+	{
+		"name": "jeans",
+		"imgURL": "https://tinyurl.com/ydft6d65"
+	},
+	{
+		"name": "pants",
+		"imgURL": "https://tinyurl.com/ydcle4f8"
+	},
+	{
+		"name": "leggings",
+		"imgURL": "https://tinyurl.com/yc3jfnye"
+	},
+	{
+		"name": "jacket",
+		"imgURL": "https://tinyurl.com/y94q6c3r"
+	},
+	{
+		"name": "boots",
+		"imgURL": "https://tinyurl.com/yc7gznfs"
+	},
+	{
+		"name": "shoes",
+		"imgURL": "https://tinyurl.com/ycs8qq8b"
+	},
+	{
+		"name": "shirt",
+		"imgURL": "https://tinyurl.com/yc6nuhvw"
+	}
 ]
