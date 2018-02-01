@@ -18,18 +18,12 @@ From the About section
 * MLabs 
 
 # Dependencies used
-*   "aphrodite": "^1.2.5",
-    "aphrodite-reset": "^2.0.0",
-    "aphrodite-test": "^1.0.0",
-    "axios": "^0.17.1",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "gh-pages": "^1.1.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.0",
-    "react-test-renderer": "^16.2.0"
+*   "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.2",
+    "morgan": "^1.9.0"
 
 #Resources 
 * www.unsplash.com (for images)
