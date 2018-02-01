@@ -31,5 +31,8 @@ From the About section
 * Visual Design System Reference               https://medium.freecodecamp.org/css-in-javascript-the-future-of-component-based-styling-70b161a79a32
 * https://zellwk.com/blog/why-vertical-rhythms/
 
+#Member Contributions
+* Rindy - Worked on setting up the backend. Establishing the route handlers. Connecting app to MLab database. And deploying to heroku. 
+* Gwen - 
 
 

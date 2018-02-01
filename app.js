@@ -9,7 +9,7 @@ const app = express()
 // const port = 5001
 
 
-if(process.env.NODE_ENV == "production"){
+if (process.env.NODE_ENV == "production") {
     mongoose.connect(process.env.MLAB_URL)
 } else {
     mongoose.connect('mongodb://localhost/weather')
@@ -19,10 +19,13 @@ mongoose.Promise = Promise
 app.set('port', process.env.PORT || 5001)
 app.use(cors())
 app.use(morgan('dev'))
-app.use(parser.urlencoded({ extended: true }))
+app.use(parser.urlencoded({
+    extended: true
+}))
 app.use(parser.json())
 app.use(methodOverride("_method"))
 
 app.use('/', input)
-app.listen(app.get('port'), () => {console.log(`✅ PORT: ${app.get('port')} 🌟`)
+app.listen(app.get('port'), () => {
+    console.log(`✅ PORT: ${app.get('port')} 🌟`)
 });
