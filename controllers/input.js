@@ -5,7 +5,6 @@ const Input = require('../db/input');
 const Clothing = require('../db/clothing');
 const Weather = require('../db/weather.js')
 
-//Routes for the INPUT Form
 router.get('/input', (req, res) => {
     Input.find({})
         .then(function (input) {
@@ -36,7 +35,6 @@ router.put('/input/:id', (req, res) => {
         .then(function (input) {
             res.json(input)
         })
-    //may need to use findOne for the input form later
 });
 
 router.delete('/input/:id', (req, res) => {
@@ -48,7 +46,6 @@ router.delete('/input/:id', (req, res) => {
         })
 });
 
-//Routes for Clothing 
 router.get('/clothing', (req, res) => {
     Clothing.find({})
         .then(function (clothing) {
@@ -65,7 +62,6 @@ router.get('/clothing/:name', (req, res) => {
         })
 });
 
-//Routes for Weather
 router.get('/weather', (req, res) => {
     console.log('get weather')
     Weather.find({})

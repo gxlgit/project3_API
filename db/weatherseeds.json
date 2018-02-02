@@ -1,9 +1,7 @@
-[
-	{
+[{
 		"name": "sunny",
 		"imgURL": "https://tinyurl.com/yatkamn5",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "sunglasses",
 				"imgURL": "https://tinyurl.com/y9gvv5l6"
 			},
@@ -16,8 +14,7 @@
 	{
 		"name": "rainy",
 		"imgURL": "https://tinyurl.com/ycfuy9um",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "raincoat",
 				"imgURL": "https://tinyurl.com/ydxyplo3"
 			},
@@ -34,18 +31,15 @@
 	{
 		"name": "windy",
 		"imgURL": "https://tinyurl.com/y8sucy53",
-		"clothes": [
-			{
-				"name": "windbreaker",
-				"imgURL": "https://tinyurl.com/y98lzrw4"
-			}
-		]
+		"clothes": [{
+			"name": "windbreaker",
+			"imgURL": "https://tinyurl.com/y98lzrw4"
+		}]
 	},
 	{
 		"name": "cold",
 		"imgURL": "https://tinyurl.com/y8r7w6x7",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "coat",
 				"imgURL": "https://tinyurl.com/y73odabj"
 			},
@@ -66,8 +60,7 @@
 	{
 		"name": "snowy",
 		"imgURL": "https://tinyurl.com/ydbcndb4",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "coat",
 				"imgURL": "https://tinyurl.com/y73odabj"
 			},
@@ -92,8 +85,7 @@
 	{
 		"name": "hot",
 		"imgURL": "https://tinyurl.com/ycj5uy8c",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "shorts",
 				"imgURL": "https://tinyurl.com/y859thor"
 			},
@@ -118,8 +110,7 @@
 	{
 		"name": "warm",
 		"imgURL": "https://tinyurl.com/ya7p65yy",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "shorts",
 				"imgURL": "https://tinyurl.com/y859thor"
 			},
@@ -144,8 +135,7 @@
 	{
 		"name": "cool",
 		"imgURL": "https://tinyurl.com/yan5jjsf",
-		"clothes": [
-			{
+		"clothes": [{
 				"name": "pants",
 				"imgURL": "https://tinyurl.com/ydcle4f8"
 			},
