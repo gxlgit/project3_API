@@ -6,7 +6,6 @@ const methodOverride = require('method-override')
 const morgan = require('morgan')
 const input = require('./controllers/input')
 const app = express()
-// const port = 5001
 
 
 if (process.env.NODE_ENV == "production") {
