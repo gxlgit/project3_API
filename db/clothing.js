@@ -5,7 +5,7 @@ const ClothingSchema = new mongoose.Schema({
   imgURL: String
 })
 
-console.log('in clothing.js');
+console.log('in clothing.js') // remove this console.log
 
 Clothing = mongoose.model('Clothing', ClothingSchema)
 
